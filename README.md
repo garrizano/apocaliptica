@@ -40,9 +40,8 @@ A continuación, se presentan los enlaces directos a cada una de las sesiones.
 
 ## 🛠️ Instrucciones de Uso
 
-1. **Revisión:** Se recomienda seguir el orden numérico de las clases para una mejor comprensión de los temas.
-2. 
-3. 
+1. **Orden Cronológico:** Se recomienda seguir el orden numérico de las sesiones para garantizar la continuidad del aprendizaje.
+2. **Navegación Recomendada:** Para evitar perder de vista este índice, abre los videos en una pestaña nueva utilizando `Ctrl + Clic` (o clic con la rueda del ratón) sobre el botón de visualización.
 
 ---
 ⭐ *Repositorio mantenido para fines educativos.*
