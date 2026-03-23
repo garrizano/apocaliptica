@@ -41,8 +41,8 @@ A continuación, se presentan los enlaces directos a cada una de las sesiones.
 ## 🛠️ Instrucciones de Uso
 
 1. **Revisión:** Se recomienda seguir el orden numérico de las clases para una mejor comprensión de los temas.
-2. **Material Adicional:** Si la clase incluye archivos de código o diagramas, estos se encuentran en las carpetas correspondientes dentro de este repositorio.
-3. **Dudas:** Utiliza la sección de *Issues* o el canal de comunicación establecido para consultas técnicas.
+2. 
+3. 
 
 ---
 ⭐ *Repositorio mantenido para fines educativos.*
