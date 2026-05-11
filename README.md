@@ -36,6 +36,7 @@ A continuación, se presentan los enlaces directos a cada una de las sesiones.
 | **Clase 23** | [Ver Video 📺](https://youtu.be/RlztZABX7Bo) | **Clase 45** | [Ver Video 📺](https://youtu.be/ebNTLyegj6k) |
 | **Clase 24** | [Ver Video 📺](https://youtu.be/88sLYOiidGA) | **Clase 46** | [Ver Video 📺](https://youtu.be/DKPrtffDtdE) |
 | **Clase 47** | [Ver Video 📺](https://youtu.be/cHp-AlTrpFI) | **Clase 48** | [Ver Video 📺](https://youtu.be/ethrQgY0MrI) |
+| **Clase 49** | [Ver Video 📺](https://youtu.be/Tl8VgI4MAlo) |
 
 ---
 
