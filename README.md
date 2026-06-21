@@ -60,6 +60,8 @@ A continuación, se presentan los enlaces directos a cada una de las sesiones.
 - **Clase 49:** [Ver Video 📺](https://youtu.be/Tl8VgI4MAlo)
 - **Clase 50:** [Ver Video 📺](https://youtu.be/sRZMJqtmzO0)
 - **Clase 51:** [Ver Video 📺](https://youtu.be/7IRD-c5Lkww)
+- **Clase 52:** [No hay video :-( 📺]
+- **Clase 53:** [Ver Video 📺](https://youtu.be/1LdMxQOVJps)
 
 ---
 
