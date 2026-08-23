@@ -67,6 +67,7 @@ A continuación, se presentan los enlaces directos a cada una de las sesiones.
 - **Clase 56:** [Ver Video 📺](https://youtu.be/OHj8tjWBzuI)
 - **Clase 57:** [Ver Video 📺](https://youtu.be/mNjGjcjSRls)
 - **Clase 58:** [Ver Video 📺](https://youtu.be/qkfG1gYRyng)
+- **Clase 59:** [Ver Video 📺](https://youtu.be/g0vmAYRLfZI)
 
 ---
 
